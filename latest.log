@@ -1,134 +1,134 @@
-[11:21:16] [main/INFO]: ModLauncher running: args [--username, TheBabadook__, --version, forge-47.4.0, --gameDir, C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack, --assetsDir, C:\Users\Schonfelds\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, 12eaf2e657b541e49e9c0dedf7c1b93b, --accessToken, ????????, --clientId, MjQ5NDkzODItYjE1YS00ZDViLTkwNjctNjFjNzc4MDVmMzlh, --xuid, 2535426189297477, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Schonfelds\curseforge\minecraft\Install\quickPlay\java\1741364473489.json, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[11:21:16] [main/INFO]: ModLauncher running: args [--username, TheBabadook__, --version, forge-47.4.0, --gameDir, C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack, --assetsDir, C:\Users\USERHIDDEN\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, 12eaf2e657b541e49e9c0dedf7c1b93b, --accessToken, ????????, --clientId, MjQ5NDkzODItYjE1YS00ZDViLTkwNjctNjFjNzc4MDVmMzlh, --xuid, 2535426189297477, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\USERHIDDEN\curseforge\minecraft\Install\quickPlay\java\1741364473489.json, --launchTarget, forgeclient, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
 [11:21:16] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 10 arch amd64 version 10.0
 [11:21:18] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
 [11:21:18] [main/INFO]: Trying GL version 4.6
 [11:21:18] [main/INFO]: Requested GL version 4.6 got version 4.6
 [11:21:18] [pool-2-thread-1/INFO]: GL info: Radeon RX 5500 XT GL version 4.6.0 Core Profile Context 24.10.1.241007, ATI Technologies Inc.
 [11:21:19] [main/INFO]: Starting Essential Loader (stage2) version 1.6.3 (285f951adc7537f49ae3ef9fc0d2fd3e) [stable]
-[11:21:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Schonfelds/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
-[11:21:20] [main/INFO]: Found mod file [1.20.1-forge]-Epic-Knights-9.21.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file alexscaves-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file alexscavesdelight-1.0.24-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file alexsdelight-1.5.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file alexsmobs-1.22.9.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file alltheleaks-0.1.0-beta+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file amendments-1.20-1.2.19.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Applied-Mekanistics-1.4.2.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file appliedenergistics2-forge-15.3.3.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Aquaculture-1.20.1-2.5.4.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file aquatica-0.0.7-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file ArchaeologyBanners-Forge-1.20.1-5.1.6.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Archeological-forge-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Architects-Palette-1.20.1-1.3.6.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file artifacts-forge-9.5.13.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file AttributeFix-Forge-1.20.1-21.0.4.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.18-all.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file betterarcheology-1.2.1-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file caelus-forge-3.2.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file call_of_yucutan-1.0.13-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file chat_heads-0.13.13-forge-1.20.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file citadel-2.6.1-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file cleanswing-1.20-1.8.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file coolcat_lib-forge-1.20.1-v1.0.2-release.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file coroutil-forge-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file creeperoverhaul-3.0.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Critters n' Crawlers-2.2.2-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file crittersandcompanions-forge-2.2.2.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.13.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file curios-forge-5.12.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file deeperdarker-forge-1.20.1-1.3.3.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Delightful-1.20.1-3.7.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file durabilitytooltip-1.1.5-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file eatinganimation-1.20.1-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file elytraslot-forge-6.4.4+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file embeddium-0.3.31+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file feur_elytra_wings-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file feur_extension_desert-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file feur_extension_fossil-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file feur_extension_jungle-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.12.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file ftb-library-forge-2001.2.9.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file ftb-ultimine-forge-2001.1.5.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file gml-4.0.9-all.jar of type LANGPROVIDER with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file handcrafted-forge-1.20.1-3.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file identity-2.7.1-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file inventorysorter-1.20.1-23.0.8.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file irons_spellbooks-1.20.1-3.4.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.12.3.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.106.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file justzoom_forge_2.0.0_MC_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file legendarymonsters-1.7.12 MC 1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Mantle-1.20.1-1.11.44.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file mcw-furniture-3.3.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Mekanism-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file MekanismGenerators-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file MekanismTools-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file moonlight-1.20-2.13.71-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file moreoverlays-1.22.7-mc1.20.2.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file mowziesdelight-1.1.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file mowziesmobs-1.7.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file MysticalAgriculture-1.20.1-7.0.17.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file mythicmounts-20.1-7.4.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file notenoughanimations-forge-1.9.2-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file OctoLib-FORGE-0.5.0.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file oculus-mc1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file onlyhammers-com.blocklegend001.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file overloadedarmorbar-1.20.1-1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Patchouli-1.20.1-84.1-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file polymorph-forge-0.49.8+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file projectile_damage-forge-3.2.2+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file PuzzlesLib-v8.1.25-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Quark-4.0-460.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file raccompat-1.20.1-0.1.3.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file ramcompat-1.20.1-0.1.4.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file rarcompat-1.20.1-0.1.7.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file refurbished_furniture-forge-1.20.1-1.0.12.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file relics-1.20.1-0.8.0.7.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file resourcefulconfig-forge-1.20.1-2.1.3.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.29.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file RingsOfAscension-1.20.1-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file RPG_Style_more_Weapons_9.2_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file scattered_weapons-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file shineals_prehistoric_expansion-1.4.1-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Simple Weapons 1.4.5 - 1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file skinlayers3d-forge-1.7.4-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file skyfall-3.0.0-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.23.6.1210.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file sophisticatedcore-1.20.1-1.2.22.901.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file soulslike-weaponry-1.1.5-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file SpartanWeaponry-1.20.1-forge-3.1.3-all.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file TConstruct-1.20.1-3.9.2.37.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Terralith_1.20.x_v2.5.4.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file unusualprehistory-1.5.0.3.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file VisualWorkbench-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file watut-forge-1.20.1-1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file waystones-forge-1.20.1-14.1.11.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file WaystonesTeleportPets-1.20-1.20.1--1.2.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Xaeros_Minimap_25.1.0_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file xaeros_waystones_compability-1.0.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file XaerosWorldMap_1.39.4_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file YungsApi-1.20-Forge-4.0.6.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/INFO]: Found mod file Zeta-1.0-24.jar of type MOD with provider {mods folder locator at C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
-[11:21:20] [main/WARN]: Mod file C:\Users\Schonfelds\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[11:21:20] [main/WARN]: Mod file C:\Users\Schonfelds\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[11:21:20] [main/WARN]: Mod file C:\Users\Schonfelds\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[11:21:20] [main/WARN]: Mod file C:\Users\Schonfelds\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[11:21:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/USERHIDDEN/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[11:21:20] [main/INFO]: Found mod file [1.20.1-forge]-Epic-Knights-9.21.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file alexscaves-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file alexscavesdelight-1.0.24-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file alexsdelight-1.5.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file alexsmobs-1.22.9.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file alltheleaks-0.1.0-beta+1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file amendments-1.20-1.2.19.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Applied-Mekanistics-1.4.2.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file appliedenergistics2-forge-15.3.3.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Aquaculture-1.20.1-2.5.4.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file aquatica-0.0.7-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file ArchaeologyBanners-Forge-1.20.1-5.1.6.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Archeological-forge-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Architects-Palette-1.20.1-1.3.6.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file architectury-9.2.14-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file artifacts-forge-9.5.13.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file AttributeFix-Forge-1.20.1-21.0.4.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file balm-forge-1.20.1-7.3.18-all.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file betterarcheology-1.2.1-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.2.13.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file caelus-forge-3.2.0+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file call_of_yucutan-1.0.13-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file carryon-forge-1.20.1-2.1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file chat_heads-0.13.13-forge-1.20.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file citadel-2.6.1-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file cleanswing-1.20-1.8.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file cloth-config-11.1.136-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file constructionwand-1.20.1-2.11.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file coolcat_lib-forge-1.20.1-v1.0.2-release.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file coroutil-forge-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file creeperoverhaul-3.0.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Critters n' Crawlers-2.2.2-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file crittersandcompanions-forge-2.2.2.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Cucumber-1.20.1-7.0.13.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file curios-forge-5.12.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file deeperdarker-forge-1.20.1-1.3.3.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Delightful-1.20.1-3.7.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file durabilitytooltip-1.1.5-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file eatinganimation-1.20.1-5.1.0.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file elytraslot-forge-6.4.4+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file embeddium-0.3.31+mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file FarmersDelight-1.20.1-1.2.7.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file feur_elytra_wings-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file feur_extension_desert-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file feur_extension_fossil-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file feur_extension_jungle-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file framework-forge-1.20.1-0.7.12.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file ftb-library-forge-2001.2.9.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file ftb-ultimine-forge-2001.1.5.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file geckolib-forge-1.20.1-4.7.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file gml-4.0.9-all.jar of type LANGPROVIDER with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file handcrafted-forge-1.20.1-3.0.6.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file identity-2.7.1-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file inventorysorter-1.20.1-23.0.8.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file irons_spellbooks-1.20.1-3.4.0.7.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Jade-1.20.1-Forge-11.12.3.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file jei-1.20.1-forge-15.20.0.106.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file JustEnoughResources-1.20.1-1.4.0.247.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file justzoom_forge_2.0.0_MC_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file konkrete_forge_1.8.0_MC_1.20-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file legendarymonsters-1.7.12 MC 1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Mantle-1.20.1-1.11.44.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file mcw-furniture-3.3.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Mekanism-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file MekanismGenerators-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file MekanismTools-1.20.1-10.4.15.75.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file moonlight-1.20-2.13.71-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file moreoverlays-1.22.7-mc1.20.2.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file MouseTweaks-forge-mc1.20.1-2.25.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file mowziesdelight-1.1.3-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file mowziesmobs-1.7.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file MysticalAgriculture-1.20.1-7.0.17.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file mythicmounts-20.1-7.4.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file NaturesCompass-1.20.1-1.11.2-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file notenoughanimations-forge-1.9.2-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file OctoLib-FORGE-0.5.0.1+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file oculus-mc1.20.1-1.8.0.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file onlyhammers-com.blocklegend001.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file overloadedarmorbar-1.20.1-1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Patchouli-1.20.1-84.1-FORGE.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file polymorph-forge-0.49.8+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file projectile_damage-forge-3.2.2+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file PuzzlesLib-v8.1.25-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Quark-4.0-460.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file raccompat-1.20.1-0.1.3.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file ramcompat-1.20.1-0.1.4.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file rarcompat-1.20.1-0.1.7.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file refurbished_furniture-forge-1.20.1-1.0.12.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file relics-1.20.1-0.8.0.7.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file resourcefulconfig-forge-1.20.1-2.1.3.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file resourcefullib-forge-1.20.1-2.1.29.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file RingsOfAscension-1.20.1-2.0.2.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file RPG_Style_more_Weapons_9.2_1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file scattered_weapons-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Searchables-forge-1.20.1-1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file shineals_prehistoric_expansion-1.4.1-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Simple Weapons 1.4.5 - 1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file skinlayers3d-forge-1.7.4-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file skyfall-3.0.0-forge-1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.23.6.1210.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file sophisticatedcore-1.20.1-1.2.22.901.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file soulslike-weaponry-1.1.5-1.20.1-forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file SpartanWeaponry-1.20.1-forge-3.1.3-all.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file supermartijn642configlib-1.1.8-forge-mc1.20.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file TConstruct-1.20.1-3.9.2.37.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Terralith_1.20.x_v2.5.4.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file unusualprehistory-1.5.0.3.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file VisualWorkbench-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file watut-forge-1.20.1-1.1.3.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file waystones-forge-1.20.1-14.1.11.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file WaystonesTeleportPets-1.20-1.20.1--1.2.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Xaeros_Minimap_25.1.0_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file xaeros_waystones_compability-1.0.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file XaerosWorldMap_1.39.4_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file YungsApi-1.20-Forge-4.0.6.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/INFO]: Found mod file Zeta-1.0-24.jar of type MOD with provider {mods folder locator at C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods}
+[11:21:20] [main/WARN]: Mod file C:\Users\USERHIDDEN\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.4.0\fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[11:21:20] [main/WARN]: Mod file C:\Users\USERHIDDEN\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.4.0\javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[11:21:20] [main/WARN]: Mod file C:\Users\USERHIDDEN\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.4.0\lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[11:21:20] [main/WARN]: Mod file C:\Users\USERHIDDEN\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.4.0\mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
 [11:21:20] [main/INFO]: Found mod file fmlcore-1.20.1-47.4.0.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5ec4ff02
 [11:21:20] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5ec4ff02
 [11:21:20] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.4.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5ec4ff02
@@ -136,7 +136,7 @@
 [11:21:20] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5ec4ff02
 [11:21:20] [main/INFO]: Found mod file forge-1.20.1-47.4.0-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5ec4ff02
 [11:21:21] [main/WARN]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[11:21:21] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods\resourcefullib-forge-1.20.1-2.1.29.jar
+[11:21:21] [main/WARN]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods\resourcefullib-forge-1.20.1-2.1.29.jar
 [11:21:21] [main/INFO]: Found 36 dependencies adding them to mods collection
 [11:21:21] [main/INFO]: Found mod file jackson-dataformat-toml-2.15.2.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4fe533ff
 [11:21:21] [main/INFO]: Found mod file kuma-api-forge-20.1.9-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4fe533ff
@@ -174,7 +174,7 @@
 [11:21:21] [main/INFO]: Found mod file jankson-1.2.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4fe533ff
 [11:21:21] [main/INFO]: Found mod file expandability-forge-9.0.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4fe533ff
 [11:21:21] [main/INFO]: Found mod file groovy-datetime-4.0.13.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@4fe533ff
-[11:21:21] [main/INFO]: Found Kotlin-containing mod Jar[union:/C:/Users/Schonfelds/curseforge/minecraft/Instances/Prehistoric%20Modpack/essential/libraries/forge_1.20.1/kotlin-for-forge-4.3.0-slim.jar%23286!/], checking whether we need to upgrade it..
+[11:21:21] [main/INFO]: Found Kotlin-containing mod Jar[union:/C:/Users/USERHIDDEN/curseforge/minecraft/Instances/Prehistoric%20Modpack/essential/libraries/forge_1.20.1/kotlin-for-forge-4.3.0-slim.jar%23286!/], checking whether we need to upgrade it..
 [11:21:21] [main/INFO]: Found outdated Kotlin core libs 0.0.0 (we ship 1.9.23)
 [11:21:21] [main/INFO]: Found outdated Kotlin Coroutines libs 0.0.0 (we ship 1.8.0)
 [11:21:21] [main/INFO]: Found outdated Kotlin Serialization libs 0.0.0 (we ship 1.6.3)
@@ -182,12 +182,12 @@
 [11:21:22] [main/INFO]: Starting runtime mappings setup...
 [11:21:22] [main/INFO]: Injecting ScriptModLocator candidates...
 [11:21:22] [main/INFO]: Injected Jimfs file system
-[11:21:22] [main/INFO]: Skipped loading script mods from directory C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack\mods\scripts as it did not exist.
+[11:21:22] [main/INFO]: Skipped loading script mods from directory C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack\mods\scripts as it did not exist.
 [11:21:22] [main/INFO]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
 [11:21:24] [GML Mappings Thread/INFO]: Loaded runtime mappings in 1608ms
 [11:21:24] [GML Mappings Thread/INFO]: Finished runtime mappings setup.
 [11:21:25] [main/INFO]: Compatibility level set to JAVA_17
-[11:21:25] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.4.0, --gameDir, C:\Users\Schonfelds\curseforge\minecraft\Instances\Prehistoric Modpack, --assetsDir, C:\Users\Schonfelds\curseforge\minecraft\Install\assets, --uuid, 12eaf2e657b541e49e9c0dedf7c1b93b, --username, TheBabadook__, --assetIndex, 5, --accessToken, ????????, --clientId, MjQ5NDkzODItYjE1YS00ZDViLTkwNjctNjFjNzc4MDVmMzlh, --xuid, 2535426189297477, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\Schonfelds\curseforge\minecraft\Install\quickPlay\java\1741364473489.json]
+[11:21:25] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-47.4.0, --gameDir, C:\Users\USERHIDDEN\curseforge\minecraft\Instances\Prehistoric Modpack, --assetsDir, C:\Users\USERHIDDEN\curseforge\minecraft\Install\assets, --uuid, 12eaf2e657b541e49e9c0dedf7c1b93b, --username, TheBabadook__, --assetIndex, 5, --accessToken, ????????, --clientId, MjQ5NDkzODItYjE1YS00ZDViLTkwNjctNjFjNzc4MDVmMzlh, --xuid, 2535426189297477, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\USERHIDDEN\curseforge\minecraft\Install\quickPlay\java\1741364473489.json]
 [11:21:25] [main/INFO]: Loaded configuration file for Embeddium: 174 options available, 3 override(s) found
 [11:21:25] [main/INFO]: Searching for graphics cards...
 [11:21:26] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=Virtual Desktop Monitor, version=DriverVersion=10.54.50.446]
